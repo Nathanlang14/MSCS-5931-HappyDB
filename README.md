@@ -38,10 +38,9 @@ Team members:
   * have you been sufficiently speculative about above issues not directly addressed in your data/analysis/model? (1)
   
 # (Potential) Research Questions
-* **Exploratory Analysis:** How the dataset looks like, distribution of age-group, sex-group etc.
-* **Macro view:** What specific topic makes the whole user-group happy?
-* **Micro view:** What specific topic makes a subgroup of users happy? Within a certain predicted category and user sub-group, what topic comes up frequently? (Looking for causality and trends) **(Adib is looking into these questions, and is writing analysis on these parts)**
-* **Predictions:** Can we predict someone's happiness from demographic dataset?
+* **Exploratory Analysis:** How the dataset looks like, distribution of age-group, sex-group etc. **(Eyad is working on this)**
+* **Predictions:** Can we predict someone's happiness predicted category from their text? **(Nate completed this part)**
+* **Looking for reasons to be happy:** What specific topic makes the whole user-group or a sub-group happy? (qualitative approach) **(Adib is looking into these questions, and is writing analysis on these parts)**
 
 # References
 1. Asai, A., Evensen, S., Golshan, B., Halevy, A., Li, V., Lopatenko, A., ... & Xu, Y. (2018). Happydb: A corpus of 100,000 crowdsourced happy moments. arXiv preprint arXiv:1801.07746. (https://arxiv.org/pdf/1801.07746.pdf)
