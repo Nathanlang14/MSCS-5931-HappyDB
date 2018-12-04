@@ -42,6 +42,9 @@ Team members:
 * **Predictions:** Can we predict someone's happiness predicted category from their text? **(Nate completed this part)**
 * **Looking for reasons to be happy:** What specific topic makes the whole user-group or a sub-group happy? (qualitative approach) **(Adib is looking into these questions, and is writing analysis on these parts)**
 
+# Code References
+1. https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f was used as a base for Bag of Words Analysis
+
 # References
 1. Asai, A., Evensen, S., Golshan, B., Halevy, A., Li, V., Lopatenko, A., ... & Xu, Y. (2018). Happydb: A corpus of 100,000 crowdsourced happy moments. arXiv preprint arXiv:1801.07746. (https://arxiv.org/pdf/1801.07746.pdf)
 
